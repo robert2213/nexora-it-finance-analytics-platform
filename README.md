@@ -70,4 +70,35 @@ project-2-it-financial-command-center-5yr/
 ├── data/
 ├── docs/
 ├── assets/
+└── powerbi/
 ```
+
+---
+
+### Power BI Dashboard Build
+
+The `powerbi/` folder contains the complete step-by-step implementation guide for building the dashboard in Power BI Desktop.
+
+#### Build Documents
+
+| Document | Description |
+|---|---|
+| [Power Query Import Steps](project-2-it-financial-command-center-5yr/powerbi/power_query_import_steps.md) | Detailed import instructions for all 15 CSV files — column types, calculated columns, relationship keys, and Power Query transformations |
+| [DAX Measure Script](project-2-it-financial-command-center-5yr/powerbi/dax_measure_script.md) | Copy/paste-ready DAX measures organized into 12 sections — base, budget, forecast, variance, time intelligence, headcount, external labor, vendor, cloud, project, and risk |
+| [Page Build Instructions](project-2-it-financial-command-center-5yr/powerbi/page_build_instructions.md) | Step-by-step construction guide for all 9 dashboard pages — exact field assignments, visual settings, conditional formatting, slicers, tooltips, and drill-through configuration |
+| [Validation Tests](project-2-it-financial-command-center-5yr/powerbi/validation_tests.md) | 25-point validation checklist covering row counts, financial reconciliation, YTD logic, relationship filters, and drill-through behavior |
+| [Screenshot Plan](project-2-it-financial-command-center-5yr/powerbi/screenshot_plan.md) | 10-screenshot capture plan with exact slicer settings, file names, story descriptions, and LinkedIn post templates for each screenshot |
+
+#### Dashboard Pages
+
+| Page | Primary Focus |
+|---|---|
+| CIO Executive Summary | Full financial picture — KPIs, monthly trend, top variance drivers, executive commentary |
+| Budget vs Actuals | Month-by-month budget execution — cost center variance matrix, GL category breakdown |
+| Forecast & Projection | 3+9 / 6+6 / 9+3 forecast comparison, year-end projection gauge, risk flag table |
+| External Labor | Contractor spend, avg hourly rate, contract end date risk table |
+| Vendor Spend | Top 10 vendors, YoY growth, concentration treemap, category analysis |
+| Cloud Spend | Azure vs AWS trend 2022–2026, service category breakdown, cost center allocation |
+| Headcount | Approved vs filled positions, vacancy rate by BU, labor cost trend |
+| Project Spend | Capex vs Opex split, project budget vs actuals vs forecast, portfolio detail |
+| Drill-through Detail | Transaction-level audit — every KPI drills through to underlying records |
