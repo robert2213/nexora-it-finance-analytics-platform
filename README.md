@@ -65,3 +65,19 @@ project-2-it-financial-command-center-5yr/
 ├── data/
 ├── docs/
 ├── assets/
+
+
+```text
+Added Project 2: Nexora IT Financial Command Center
+
+- Added 5-year IT finance dataset (2022-2026)
+- Added Power BI dashboard requirements
+- Added star schema documentation
+- Added DAX measure library
+- Added executive insights
+- Added architecture and wireframe documentation
+
+
+
+
+
