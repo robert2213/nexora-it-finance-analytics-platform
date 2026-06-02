@@ -16,22 +16,52 @@ Claude Code, Excel, Python, Pandas, OpenPyXL, Python-PPTX, Python-DOCX
 
 ## Skills Demonstrated
 IT Finance, FP&A, Dashboard Design, Executive Reporting, KPI Development, Financial Storytelling, AI-Assisted Analytics
-## Project 2: Nexora IT Financial Command Center
+# Project 2: Nexora IT Financial Command Center
 
-A 5-year Power BI-ready IT finance analytics dataset and dashboard build package covering budget, actuals, forecast, headcount, vendor spend, cloud spend, external labor, and project spend.
+## Overview
 
-### Key Deliverables
-- 5-year finance dataset, 2022–2026
-- Star schema model
-- Power BI dashboard requirements
-- DAX measure documentation
-- Executive insights
-- Build guide
+The Nexora IT Financial Command Center expands the original Nexora IT Finance Analytics Platform into an enterprise-grade Power BI reporting solution.
 
-### Skills Demonstrated
-- IT Finance Analytics
-- Power BI Data Modeling
-- Forecasting
-- Budget vs Actuals
+The project includes a 5-year IT finance dataset (2022-2026) designed to support executive decision-making across budgeting, forecasting, headcount planning, vendor management, cloud optimization, external labor management, and project portfolio governance.
+
+## Business Objectives
+
+- Improve visibility into IT spend
+- Track budget vs actual performance
+- Monitor forecast accuracy
+- Analyze vendor concentration risk
+- Optimize cloud spend
+- Manage contractor and external labor costs
+- Support CIO and executive leadership reporting
+
+## Key Deliverables
+
+- 5-Year IT Finance Dataset (2022-2026)
+- Power BI Star Schema Data Model
+- Executive Dashboard Requirements
+- DAX Measure Library
+- Executive Insight Documentation
+- Dashboard Wireframes
+- Architecture Documentation
+- Power BI Build Guide
+
+## Skills Demonstrated
+
+- Financial Planning & Analysis (FP&A)
+- Power BI Development
+- Data Modeling
+- Forecasting & Budgeting
 - Executive Reporting
-- Vendor and Cloud Spend Analysis
+- Vendor Spend Analytics
+- Cloud Cost Management
+- Workforce Planning
+- Data Architecture
+- AI-Assisted Development
+
+## Folder Structure
+
+```text
+project-2-it-financial-command-center-5yr/
+├── data/
+├── docs/
+├── assets/
