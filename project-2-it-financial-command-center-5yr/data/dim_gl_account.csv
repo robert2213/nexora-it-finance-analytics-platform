@@ -1,0 +1,12 @@
+gl_account_key,gl_category,gl_description
+611000,Internal Labor,Salaries and wages
+611500,Benefits,Employee benefits
+612000,External Labor,Contractor labor
+612050,Managed Services,Managed services labor
+612070,Hardware,Expendable equipment
+613000,Software,Software subscription
+613050,Cloud,Cloud hosting and consumption
+614000,Professional Services,Consulting services
+615000,Telecom,Network and phone services
+616000,Training,Training and development
+617000,Travel,Travel and conference expense

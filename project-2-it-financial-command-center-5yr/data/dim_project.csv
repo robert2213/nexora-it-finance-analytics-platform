@@ -1,0 +1,11 @@
+project_key,project_name,project_category,project_status,project_owner
+PRJ001,ERP Modernization,Transformation,Active,Alan Smith
+PRJ002,Cloud Optimization Program,Cloud,Active,Mike Hanley
+PRJ003,Data Lakehouse Buildout,Data,Active,Vimala Rao
+PRJ004,Cyber Resilience Upgrade,Security,Active,Maya Chen
+PRJ005,ServiceNow Workflow Expansion,Corp Tech,Active,Alan Smith
+PRJ006,Digital Workplace Refresh,Corp Tech,Active,Alan Smith
+PRJ007,Claims Analytics Automation,Data,Planned,Vimala Rao
+PRJ008,Network Modernization,Infrastructure,Active,Mike Hanley
+PRJ009,Vendor Rationalization,Finance Transformation,Active,Renee Johnson
+PRJ010,AI Finance Reporting Pilot,Analytics,Planned,Renee Johnson

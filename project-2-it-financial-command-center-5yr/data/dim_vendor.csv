@@ -1,0 +1,19 @@
+vendor_key,vendor_name,vendor_category,vendor_tier,vendor_description
+VEN001,Microsoft Azure,Cloud,Strategic,Cloud consumption and platform services
+VEN002,AWS,Cloud,Strategic,Cloud consumption and platform services
+VEN003,Snowflake,Software,Strategic,Data platform subscription
+VEN004,Databricks,Software,Strategic,Lakehouse analytics platform
+VEN005,ServiceNow,Software,Strategic,ITSM platform
+VEN006,Capgemini,External Labor,Strategic,Managed services and delivery resources
+VEN007,Accenture,Professional Services,Preferred,Consulting and implementation
+VEN008,Deloitte,Professional Services,Preferred,Advisory and implementation
+VEN009,Infosys,External Labor,Preferred,External delivery resources
+VEN010,Oracle,Software,Strategic,ERP and database platforms
+VEN011,Workday,Software,Strategic,HCM platform
+VEN012,CrowdStrike,Software,Strategic,Endpoint security
+VEN013,Palo Alto Networks,Software,Strategic,Network security
+VEN014,AHEAD LLC,Professional Services,Preferred,Infrastructure consulting
+VEN015,Cisco,Hardware,Preferred,Network hardware and telecom
+VEN016,Adobe,Software,Preferred,Creative and document tools
+VEN017,Atlassian,Software,Preferred,Jira and Confluence
+VEN018,Lenovo,Hardware,Transactional,End user hardware

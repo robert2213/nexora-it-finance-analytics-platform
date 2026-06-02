@@ -1,0 +1,7 @@
+business_unit_key,business_unit_name,business_unit_owner,owner_title
+BU01,Enterprise Engineering Services,Todd Williams,"SVP, Enterprise Engineering"
+BU02,Enterprise Data Services,Vimala Rao,"VP, Enterprise Data Services"
+BU03,Corporate Technology,Alan Smith,"VP, Corporate Technology"
+BU04,EPMO,Renee Johnson,"Director, EPMO"
+BU05,Information Security,Maya Chen,CISO
+BU06,Infrastructure & Cloud,Mike Hanley,"Director, Infrastructure & Cloud"
